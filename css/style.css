@@ -55,7 +55,7 @@ img:hover {
   width: 25%;
   float: left;
   display: flex;
-  position: relative;
+  position: absolute;
 }
 .mid img {
   width: 350px;
