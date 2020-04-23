@@ -59,7 +59,8 @@ img:hover {
 .mid img {
   width: 350px;
   float: left;
-  display: flex;
+  display: inline-block;;
+  position: relative;
 }
 .large {
   width:auto;
