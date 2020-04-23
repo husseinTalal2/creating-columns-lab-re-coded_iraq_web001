@@ -54,12 +54,12 @@ img:hover {
 .small img {
   width: 25%;
   float: left;
-  display: inline-block;
+  display: flex;
 }
 .mid img {
   width: 350px;
   float: left;
-  display: inline-block;
+  display: flex;;
 }
 .large {
   width:auto;
