@@ -53,7 +53,7 @@ img:hover {
 /* create your tile classes! we recommend .small .med .large */
 .small img {
   width: 25%;
-  
+
   display: inline-block;
 }
 .mid img {
