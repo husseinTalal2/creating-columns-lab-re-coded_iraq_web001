@@ -54,6 +54,7 @@ img:hover {
 .small img {
   width: 25%;
   float: left;
+  display: inline-block;
 }
 .mid img {
   width: 400px;
